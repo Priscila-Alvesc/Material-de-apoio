@@ -88,3 +88,36 @@ Polimorfismo: Um cenceito muito relacionado a herança é o polimorfiscmo que pe
 Interfaces - servem para que você crie constratos ou seja, obrigações a serem seguidas por qualquer classe que assinar aquele contrato .
 
 
+#teste de API
+
+Sempre observa depências de framework;
+Exemplo: rest Assutrance, Junit
+
+Uma API(Interface de programação de aplicações) é um tipo de implemtação de software que permite expor uma aplicação backend ao mundo exterior sem que haja a necessidade de acesso ao codigo fonte dela.
+Conceitos básico de APIs Rest  - A aarquitetura propõe que a API exponha os recurso da aplicação em um servidor e que esses recrusos possam ser acessados através de métodos, por exemplo: buscar, inserir, alterar, excluir
+
+Heuristica para testes exploratorio de API rest -
+V - verbos
+A - Authentication & Authorization - mecanismo de autenticação e autorizações
+D - Data -  Dados e sua estrutura
+E - Erros - Código de estado HTTP para erros
+R - Responsiviness - tempo de resposta
+
+Check list básico de testes de APIs Resy
+Reegras de negócio
+continuidade dos fluxos
+Tipagem de dados
+Parâmetros (corpo, filtro, path, etc)
+Uso de token de usuários diferentes
+Valiação de étodos
+Listagem de 0,1 e muitos recursos
+Estrutura da resposta
+Código dos estados HTTP
+Documentação dos contratos da API
+
+
+
+
+
+
+
