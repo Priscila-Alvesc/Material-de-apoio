@@ -117,6 +117,20 @@ Documentação dos contratos da API
 
 
 
+Teste de performance
+
+Perguntas:
+Qual o objetivo nos temos?
+Qual a quantidade de usuários vamos ter?
+Qual o tempo de utilização?
+Qual o cenário vamos ter do usuário executando?
+Qual o resultado você espera ter com este teste?
+
+
+
+
+
+
 
 
 
