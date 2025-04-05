@@ -128,6 +128,20 @@ Qual o resultado você espera ter com este teste?
 
 
 
+Comandos principais do GIT:
+git clone – Copia um repositório remoto para sua máquina local.
+git init – Cria um novo repositório Git em um diretório local.
+git add – Adiciona arquivos ao estágio (staging area) para serem comitados.
+git commit – Salva as alterações adicionadas ao repositório com uma mensagem.
+git status – Mostra o estado atual dos arquivos no repositório.
+git log – Exibe o histórico de commits do repositório.
+git branch – Lista, cria ou exclui ramificações (branches).
+git checkout – Muda para outra branch ou restaura arquivos para um estado anterior.
+git merge – Junta as alterações de uma branch com outra.
+git pull – Atualiza o repositório local com as mudanças do repositório remoto.
+git push – Envia os commits locais para o repositório remoto.
+
+
 
 
 
